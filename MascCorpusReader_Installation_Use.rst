@@ -3,7 +3,7 @@ Installation (Development)
 
 Download and install NLTK from http://nltk.org/install.html if you do not already have it.
 
-Move `masc.py` script from within the the ``nltk`` directory of ``graf-python`` into ``your-path-to-nltk/corpus/reader/``
+Move `masc.py` into ``your-path-to-nltk/corpus/reader/``
 
 In ``nltk/corpus/__init__.py`` add this code after the import statements,
 

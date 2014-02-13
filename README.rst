@@ -24,15 +24,6 @@ Make sure you have the ``oanc_masc`` zip file and/or folder within your ``nltk_d
 
 The NLTK data folder is probably in your home folder. Inside of the MASC folder be the written and spoken directories.
 
-..
-If you do not have the ``oanc_masc`` data you can download it by using the Python interpreter,
-
-    >>> import nltk
-    >>> nltk.download()
-
-Then selecting the "corpora" tab in the popup window and downloading ``oanc_masc``.
-..
-
 You can download MASC 3.0.0 from http://anc.org but you need to rename the directory to ``oanc_masc`` and move it to ``nltk_data/corpora``.
 
 Usage

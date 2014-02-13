@@ -23,6 +23,7 @@ and add ``'MascCorpusReader'`` (with single quotes) to the list of Corpus reader
 Make sure you have the ``oanc_masc`` zip file and/or folder within your ``nltk_data/corpora`` directory.
 
 The NLTK data folder is probably in your home folder. Inside of the MASC folder be the written and spoken directories.
+
 ..
 If you do not have the ``oanc_masc`` data you can download it by using the Python interpreter,
 
@@ -32,7 +33,7 @@ If you do not have the ``oanc_masc`` data you can download it by using the Pytho
 Then selecting the "corpora" tab in the popup window and downloading ``oanc_masc``.
 ..
 
-You can download MASC 3.0.0 from anc.org but you need to rename the directory to ``oanc_masc`` and move it to ``nltk_data/corpora``.
+You can download MASC 3.0.0 from http://anc.org but you need to rename the directory to ``oanc_masc`` and move it to ``nltk_data/corpora``.
 
 Usage
 =====
